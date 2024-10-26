@@ -8,5 +8,5 @@
 код которых разглашать нельзя 😃
 
 ### Моя **очень крутая** статистика
-[![Kyrowin`s GitHub stats](https://github-readme-stats.vercel.app/api?username=kyrowin&theme=transparent)]
+![Kyrowin`s GitHub stats](https://github-readme-stats.vercel.app/api?username=kyrowin&theme=transparent)
 
